@@ -1,0 +1,74 @@
+.openwearwiki {
+    position: absolute;
+    top: 25.75px;
+    left: 27.5px;
+}
+.helper {
+    position: absolute;
+    top: 62.25px;
+    left: 27.5px;
+}
+.version-010 {
+    position: absolute;
+    top: 98.75px;
+    left: 27.5px;
+    font-size: 18.25px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 109px;
+    height: 36.5px;
+}
+.developer {
+    margin: 0;
+    font-weight: 500;
+}
+.minrainctws {
+    margin: 0;
+}
+.developer-2minrainctws {
+    position: absolute;
+    top: 129.5px;
+    left: 27.5px;
+    font-size: 15.25px;
+    display: inline-block;
+    width: 169.3px;
+    height: 44.5px;
+}
+.under-apache-20 {
+    position: absolute;
+    top: 174px;
+    left: 27.5px;
+    font-size: 13.5px;
+    font-weight: 500;
+}
+.settings {
+    position: absolute;
+    top: 199.5px;
+    left: 27.5px;
+    font-size: 13.5px;
+    font-weight: 500;
+}
+.openwearwiki-parent {
+    width: 100%;
+    position: relative;
+    background-color: #363636;
+    border: 0.5px solid #fff;
+    box-sizing: border-box;
+    height: 233.8px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 29.25px;
+    color: #fff;
+    font-family: 'Readex Pro';
+}
+
+
+body {
+    margin: 0;
+    line-height: normal;
+    width: 363px;
+    height: 234px;
+}
+
